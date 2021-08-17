@@ -1,0 +1,7 @@
+Credits
+===============
+
+Originally developed by Andrei Cioroianu: Ajax and Smarty, Part 1: Develop Ajax applications with Smarty
+http://www.ibm.com/developerworks/library/wa-aj-smarty/
+
+Ported to XOOPS by Michael Beck (Mamba)
